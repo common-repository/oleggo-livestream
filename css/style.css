@@ -1,0 +1,27 @@
+#oleggo-livestream-facebookconnect  {
+float:left;
+clear:left;
+}
+
+#oleggo-livestream-video  {
+float: left;
+}
+
+#oleggo-livestream-twitter {
+float: right;
+}
+
+#oleggo-signature {
+clear:both;
+font-size:11px;
+text-align:center;
+}
+
+#oleggo-signature .text-signature {
+vertical-align:middle;
+}
+
+#oleggo-signature img {
+margin-right: 5px;
+vertical-align:middle;
+}
